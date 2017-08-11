@@ -1,0 +1,6 @@
+{
+	"id": "dbadmin",
+	"env": {
+		"PMA_HOST": "db"
+	}
+}

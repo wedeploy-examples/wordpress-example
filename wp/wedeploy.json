@@ -1,6 +1,5 @@
 {
 	"id": "wp",
-	"image": "wordpress",
 	"env": {
 		"WORDPRESS_DB_HOST": "db",
 		"WORDPRESS_DB_USER": "root",

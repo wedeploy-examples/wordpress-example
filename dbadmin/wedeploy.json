@@ -3,5 +3,6 @@
 	"image": "phpmyadmin/phpmyadmin",
 	"env": {
 		"PMA_HOST": "db"
-	}
+	},
+	"dependencies": ["db"]
 }

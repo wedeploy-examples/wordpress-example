@@ -1,4 +1,6 @@
-# WordPress [![Badge](https://img.shields.io/badge/built%20with-wedeploy-00d46a.svg?style=flat)](http://wedeploy.com)
+[![Deploy](https://cdn.wedeploy.com/images/deploy.svg)](https://console.wedeploy.com/deploy?repo=https://github.com/wedeploy-examples/wordpress-example)
+
+# WordPress
 
 A demo of [WordPress](https://hub.docker.com/_/wordpress/), [MySQL](https://hub.docker.com/_/mysql/), and [phpMyAdmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/) on [WeDeploy](https://wedeploy.com/).
 

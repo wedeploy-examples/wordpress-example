@@ -1,4 +1,4 @@
-FROM wordpress:4.8.2
+FROM wordpress:latest
 
 # Bundle your source
 ADD . /var/www/html

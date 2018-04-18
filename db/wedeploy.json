@@ -1,11 +1,11 @@
 {
   "id": "db",
-  "image": "mysql",
+  "image": "healthcheck/mysql",
   "env": {
     "MYSQL_ROOT_PASSWORD": "passw0rd"
   },
   "volumes": {
     "data": "/var/lib/mysql"
   },
-  "zeroDowntime": true
+  "zeroDowntime": false
 }

@@ -1,10 +1,13 @@
 {
   "id": "wp",
+  "healthCheck": {
+    "url": "localhost"
+  },
   "env": {
     "WORDPRESS_DB_HOST": "db",
     "WORDPRESS_DB_USER": "root",
-    "WORDPRESS_DB_PASSWORD": "passw0rd",
-    "WORDPRESS_DB_NAME": "wordpress"
+    "WORDPRESS_DB_PASSWORD": "passw0rd"
   },
-  "dependencies": ["db"]
+  "dependencies": ["db"],
+  "zeroDowntime": true
 }

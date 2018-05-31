@@ -2,7 +2,7 @@
 
 # WordPress
 
-An example of [WordPress](https://hub.docker.com/_/wordpress/), [MySQL](https://hub.docker.com/_/mysql/), and [phpMyAdmin](https://hub.docker.com/r/phpmyadmin/phpmyadmin/) on [WeDeploy](https://wedeploy.com/).
+An example of [WordPress](https://hub.docker.com/_/wordpress/), [MySQL](https://hub.docker.com/_/mysql/), and [Adminer](https://hub.docker.com/_/adminer/) on [WeDeploy](https://wedeploy.com/).
 
 ## Instructions
 

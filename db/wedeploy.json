@@ -7,5 +7,5 @@
   "volumes": {
     "data": "/var/lib/mysql"
   },
-  "zeroDowntime": true
+  "zeroDowntime": false
 }

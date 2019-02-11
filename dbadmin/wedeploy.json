@@ -1,5 +1,8 @@
 {
-  "id": "dbadmin",
+  "id": "admin",
   "image": "adminer:4.3",
+  "healthCheck": {
+    "url": "localhost:8080"
+  },
   "dependencies": ["db"]
 }
